@@ -1,0 +1,11 @@
+# build artifacts
+*.o
+*.out
+*.exe
+server
+
+# editor stuff
+*.swp
+.DS_Store
+.vscode/
+.idea/
